@@ -1,0 +1,1 @@
+A lightweight Docker image based on python:3.8-slim with pandas, click, and numpy installed.
